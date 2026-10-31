@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Distraction-Free</string>
+    <string name="device_admin_description">Allows Distraction-Free to apply selected app restrictions when provisioned as Device Owner.</string>
+    <string name="blocking_message">This distraction is no longer available. Get back to what matters.</string>
+    <string name="apps_section">Apps to Block</string>
+    <string name="websites_section">Websites to Block</string>
+    <string name="add_domain_hint">example.com</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <color name="brand">#295D52</color>
+    <color name="brand_dark">#193D36</color>
+    <color name="surface_tint">#E7F2ED</color>
+</resources>
